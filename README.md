@@ -1,25 +1,29 @@
-# PG-Life
-PG Life Website – A web development project created during my Internshala training. This project is a student accommodation platform where users can search and explore paying guest (PG) accommodations in different cities.
-🔹 Features:
+# 🏠 PG Life Website
 
-User authentication (signup/login)
+A web application built as part of my **Internshala Web Development Training**, designed to help students and working professionals find PG accommodations easily.  
 
-City-wise PG listings
+---
 
-Detailed PG information (price, amenities, location)
+## 📌 Features
+- 🔍 Search PGs by city and locality  
+- 🛏️ View details of PG accommodations (price, facilities, images)  
+- 👤 User authentication (sign up / login)  
+- ❤️ Wishlist / favorite PGs  
+- 📱 Responsive design for mobile and desktop  
 
-Responsive front-end design using HTML, CSS, Bootstrap
+---
 
-Dynamic backend with PHP & MySQL for database management
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Backend:** PHP, MySQL  
+- **Database:** XAMPP (phpMyAdmin)  
+- **Version Control:** Git & GitHub  
 
-🔹 Tech Stack:
+---
 
-Frontend: HTML, CSS, Bootstrap
-
-Backend: PHP
-
-Database: MySQL
-
-🔹 Purpose:
-
-This project demonstrates my skills in full-stack web development and was built as part of my Internshala Web Development Internship.
+## ⚙️ Installation & Setup
+1. Clone the repository:
+2. ```bash
+   git clone https://github.com/18Pawan/PG-Life.git
+   ```bash
+   git clone https://github.com/18Pawan/PG-Life.git
